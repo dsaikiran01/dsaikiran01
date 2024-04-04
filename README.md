@@ -1,15 +1,18 @@
 <h1 align="center">Hi 👋, I'm Dumpala Sai Kiran</h1>
 <h3 align="center">A passionate web developer from India</h3>
-<p align="center"> <a href="https://twitter.com/hi__dev__" target="_blank"><img src="https://img.shields.io/twitter/follow/hi__dev__?logo=twitter&style=for-the-badge" alt="D Sai Kiran" /></a> </p>
+<p align="center"> 
+  <a href="https://twitter.com/hi__dev__" target="_blank"><img src="https://img.shields.io/twitter/follow/hi__dev__?logo=twitter&style=for-the-badge" height=27 width=220 alt="Follow @hi__dev__" /></a> &nbsp;
+  <a href="https://linkedin.com/in/dumpalasaikiran" target="_blank"><img src="https://img.shields.io/badge/connect-dumpalasaikiran-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect @LinkedIn" /></a> 
+</p>
 <p align="center"><img alt="coding" width="400" src="coder.gif"></p>
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [github](https://github.com/dsaikiran01/)
+- 👨‍💻 All of my projects are available at &nbsp;<a href="https://github.com/dsaikiran01?tab=repositories"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> 
 
-- 💬 Ask me about **react, javascript and python**
+- 💬 Ask me about **web design, react, javascript and python**
 
-- 📫 How to reach me **dsaikiran559@gmail.com**
+- 📫 How to reach me <a href="mailto:dsaikiran559@gmail.com">**Gmail**</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
